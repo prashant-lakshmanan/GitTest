@@ -8,6 +8,8 @@ public class Hello {
 		System.out.println("Merge testing---eclipse");
 		System.out.println("Changed in GitHub---merge testing");
 
+		System.out.println("Merge testing1---eclipse");
+
 	}
 
 }
