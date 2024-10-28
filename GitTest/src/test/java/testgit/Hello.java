@@ -10,6 +10,7 @@ public class Hello {
 
 		System.out.println("Merge testing1---eclipse");
 		System.out.println("Changed in elclipse");
+		System.out.println("Merge testing1---changed in github");
 
 	}
 
